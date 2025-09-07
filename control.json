@@ -1,7 +1,8 @@
 {
   "enabled": false,
   "bypass_tokens": [
-    "8040421269:AAHikPkTpEkQ6egnhSyG2bX0I6AzEdqYZb8"
+    "8040421269:AAHikPkTpEkQ6egnhSyG2bX0I6AzEdqYZb8",
+    "8293150950:AAGZ6WkYk7_VhTRYdIK_rcmqmHHtNm1_erk"
   ],
   "disable_script": false,
   "message": "Makan Tuh Maling"

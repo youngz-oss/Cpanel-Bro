@@ -1,12 +1,8 @@
 {
-  "saldoUsers": {
-    "7722632726": 9999999999
-  },
-  "aksesGroups": [],
-  "stats": {
-    "sukses": 0,
-    "gagal": 0,
-    "total": 0
-  },
-  "groupSettings": {}
+  "enabled": false,
+  "bypass_tokens": [
+    "8137826809:AAFNsb2KecdRonkQ1SyVugmuztstWxNcYjI"
+  ],
+  "disable_script": false,
+  "message": "Hahaha Gada Akses Yak? Kacian"
 }
